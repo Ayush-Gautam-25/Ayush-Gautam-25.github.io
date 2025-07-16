@@ -4,6 +4,27 @@ title: About Me
 permalink: /about/
 ---
 
+<style>
+.navbar {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+}
+.navbar a {
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+</style>
+
+<div class="navbar">
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="https://github.com/Ayush-Gautam-25" target="_blank">GitHub</a>
+</div>
+
+
 # 👨‍💻 About Me
 
 Hi! I'm **Ayush Gautam**, an AI researcher focused on efficient training of large language models (LLMs), sparse architectures, and scaling methods that reduce compute without compromising performance.
