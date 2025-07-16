@@ -19,8 +19,7 @@ title: Ayush Gautam – LLM Efficiency Blog
 
 <div class="navbar">
   <a href="/">Home</a>
-  <a href="#about">About</a>
-  <a href="#posts">Blog</a>
+  <a href="/about/">About</a>
   <a href="https://github.com/Ayush-Gautam-25" target="_blank">GitHub</a>
 </div>
 
