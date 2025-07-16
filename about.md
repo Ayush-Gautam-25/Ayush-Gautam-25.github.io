@@ -11,7 +11,7 @@ Hi! I'm **Ayush Gautam**, an AI researcher focused on efficient training of larg
 ---
 
 ## 🔍 Interests
-
+- Foundational Models
 - Mixture-of-Experts (MoE), routing, sparsity
 - Finetuning techniques: LoRA, QLoRA
 - Parallelism, quantization, memory optimization
