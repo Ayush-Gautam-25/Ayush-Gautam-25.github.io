@@ -27,25 +27,26 @@ permalink: /about/
 
 # 👨‍💻 About Me
 
-Hi! I'm **Ayush Gautam**, an AI researcher focused on efficient training of large language models (LLMs), sparse architectures, and scaling methods that reduce compute without compromising performance.
+Hi! I'm **Ayush Gautam**, an Independant AI researcher focused on architectural, training and interpretation aspects of different Foundational Models.
 
 ---
 
 ## 🔍 Interests
-- Foundational Models
-- Mixture-of-Experts (MoE), routing, sparsity
-- Finetuning techniques: LoRA, QLoRA
-- Parallelism, quantization, memory optimization
-- Scaling laws, RLHF, decision transformers
+- **Foundational Model Architectures:** Exploring transformer-based and modular designs that improve capability and scalability
+- **Mixture-of-Experts (MoE):** Studying sparse expert models, dynamic routing strategies, and load balancing to scale models efficiently.
+- **Reinforcement Learning in AI Systems:** Leveraging RL to enhance decision-making, planning, and coordination in LLM-based agents — including multi-agent reasoning, tool use, and long-horizon behavior optimization.
+- **Finetuning techniques:** LoRA, QLoRA, Preference optimization techniques
+- **Efficiency Engineering:** Delving into parallelism, quantization, and memory optimization for low-cost LLM deployment and training.
+- **Scaling Laws & Training Efficiency:** Investigating data–model–compute trade-offs and how to train LLMs with fewer tokens and lower compute without sacrificing performance.
 
 ---
 
-## 📚 What This Blog Covers
+## 📚 What The Blog Covers
+-  **Architectures of Foundational Models:** Deep dives into transformer variants, modular designs, and sparsity-aware architectures like Mixture-of-Experts (MoE).
+- **Efficient Training & Finetuning:** Hands-on experiments with LoRA, QLoRA, quantization, and memory-efficient training pipelines — including scaling law insights and performance trade-offs.
+- **Reinforcement Learning in AI Systems:** Using RL to guide decision-making in LLM agents and explore reward-aligned language behavior.
+- **Benchmarks, Ablations & Deployment Notes:** Real-world comparisons of models, optimizers, inference techniques, and downstream task performance.
 
-- Hands-on experiments with model efficiency
-- Custom model architectures
-- Reproducible PyTorch implementations
-- Benchmark comparisons and deployment notes
 
 ---
 

@@ -12,7 +12,7 @@ title: LoRA vs QLoRA
 Full finetuning of LLMs is compute-heavy and inaccessible. This blog shows how parameter-efficient finetuning methods like LoRA and QLoRA can drastically reduce GPU/memory cost.
 
 ## Results
-
+        
 | Method | Memory (GB) | Time/Epoch | Accuracy | Checkpoint Size |
 |--------|-------------|------------|----------|-----------------|
 | Full   | 30GB        | Slow       | High     | 13GB            |
