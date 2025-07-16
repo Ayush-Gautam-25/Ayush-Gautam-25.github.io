@@ -1,8 +1,3 @@
----
-layout: default
-title: Scaling Efficiently with Switch Transformer (Sparse MoE)
----
-
 # Switch Transformer: Efficient LLM Scaling via Sparse Mixture-of-Experts (MoE)
 
 > This blog will explore how Switch Transformer, a sparse Mixture-of-Experts (MoE) architecture, enables us to scale large language models while keeping computation per token low.

@@ -1,8 +1,3 @@
----
-layout: default
-title: LoRA vs QLoRA vs Full Finetuning
----
-
 # LoRA vs QLoRA vs Full Finetuning
 
 > Comparing three approaches to finetuning LLMs in terms of memory, speed, and performance.
