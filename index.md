@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ayush Gautam – LLM Efficiency Blog
 ---
 
